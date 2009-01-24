@@ -6,6 +6,7 @@ Release:	1
 License:	BSD-like
 Group:		Development/Languages
 Source0:	http://luaforge.net/frs/download.php/2152/etree-%{version}.tar.gz
+# Source0-md5:	848d6f4a4aadbaba6470a879bfc46094
 URL:		http://luaforge.net/projects/etree/
 Requires:	lua-expat
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
