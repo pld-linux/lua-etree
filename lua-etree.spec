@@ -2,7 +2,7 @@ Summary:	Lua Element Tree is an XML library that enables manipulation of XML doc
 Summary(hu.UTF-8):	Lua Element Tree egy XML könyvtár, amellyel XML dokumentumok módosítása lehetséges egyszerű Lua adatstruktúrákkal
 Name:		lua-etree
 Version:	0.1.1
-Release:	0.1
+Release:	1
 License:	BSD-like
 Group:		Development/Languages
 Source0:	http://luaforge.net/frs/download.php/2152/etree-%{version}.tar.gz
